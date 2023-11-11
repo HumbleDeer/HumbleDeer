@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning about room acoustics and programming DSP's from scratch.
 - 💞️ I’m looking to collaborate on whatever floats the boat.
 - 📫 How to reach me: 
-  - Email me: BittieBot125@gmail.com / zioniyes@gmail.com  
+  - Email me: BittieBot125@gmail.com / zioniyes@gmail.com
+
+> Machines can be fun when they behave
 
 <!---
 HumbleDeer/HumbleDeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
